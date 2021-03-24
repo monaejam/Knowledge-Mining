@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A bright, detail oriented and self-motivated individual with proven logical and efficient problem analysis and solving skills. Who has excellent organizational prowess is highly efficient and has a good eye for detail. A quick learner who can absorb new ideas and can communicate clearly and effectively.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mona.jam1988@gmail.com](mailto:mona.jam1988@gmail.com)
