@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Personal Blog
+title: Daily life of Mona
 permalink: /Blog/
 ---
